@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/funnel-analysis/static/css/main.073c9b0a.css",
+    "main.js": "/funnel-analysis/static/js/main.60252387.js",
+    "static/js/787.28cb0dcd.chunk.js": "/funnel-analysis/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/funnel-analysis/index.html",
+    "main.073c9b0a.css.map": "/funnel-analysis/static/css/main.073c9b0a.css.map",
+    "main.60252387.js.map": "/funnel-analysis/static/js/main.60252387.js.map",
+    "787.28cb0dcd.chunk.js.map": "/funnel-analysis/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60252387.js"
+  ]
+}
